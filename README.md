@@ -1,4 +1,4 @@
-### Equipo de Trabajo APOD.
+# Equipo de Trabajo APOD
 
 ## Zully Tamayo Martinez
 ## Luis Eduardo Rodriguez
