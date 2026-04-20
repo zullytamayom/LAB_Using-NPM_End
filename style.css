@@ -1,0 +1,5 @@
+body { background-color: #0b0d17; color: white; min-height: 100vh; }
+        .card { background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2); color: white; }
+        .fav-item { cursor: pointer; transition: 0.3s; }
+        .fav-item:hover { background: rgba(255,255,255,0.2); }
+        #apod-image, #apod-video { max-height: 500px; object-fit: contain; width: 100%; border-radius: 8px; }
